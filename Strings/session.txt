@@ -1,0 +1,92 @@
+Script started on Mon Apr  1 19:01:20 2019
+[?1034hbash-3.2$ ./lab7 [K[K[K[K[Ksort_strings 
+Enter 10 strings, seperated by linefeed:
+dog
+cat
+giraffe
+catfish
+horse
+seahorse
+eagle
+hamster
+octopus
+horsefly
+
+The sorted array is:
+cat
+catfish
+dog
+eagle
+giraffe
+hamster
+horse
+horsefly
+octopus
+seahorse
+bash-3.2$ ./sort_strings 
+Enter 10 strings, seperated by linefeed:
+Dog
+cat
+Giraffe
+catfish
+Horse
+seahorse
+Eagle
+hamster
+Octopus
+horsefly
+
+The sorted array is:
+Dog
+Eagle
+Giraffe
+
+Horse
+
+Octopus
+
+cat
+
+catfish
+
+hamster
+
+horsefly
+
+seahorse
+
+bash-3.2$ ./sort_strings 
+Enter 10 strings, seperated by linefeed:
+trees
+plants
+le  garden
+house
+windows
+flowers
+gre ass
+light
+view
+water
+
+The sorted array is:
+flowers
+garden
+grass
+house
+
+light
+
+plants
+
+trees
+
+view
+
+water
+
+windows
+
+bash-3.2$ exit
+exit
+
+Script done on Mon Apr  1 19:04:59 2019
